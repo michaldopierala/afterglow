@@ -32,6 +32,12 @@
       <div class="two1a_D16"><a href="<?php echo $v['foo_ret'] ?>">Returns</a></div>
       <div class="two1a_D16"><a href="<?php echo $v['foo_shi'] ?>">Shipping</a></div>
     </div>
+    <div class="two1_D16">
+      <div class="two1a_D16"><a href="<?php echo $v['foo_pri'] ?>">Privacy</a></div>
+      <div class="two1a_D16"><a href="<?php echo $v['foo_ter'] ?>">Terms of use</a></div>
+      <div class="two1a_D16"><a href="<?php echo $v['foo_ret'] ?>">Returns</a></div>
+      <div class="two1a_D16"><a href="<?php echo $v['foo_shi'] ?>">Shipping</a></div>
+    </div>
     <br>
     <!-- Logos  -->
     <div class="two2_D16">
